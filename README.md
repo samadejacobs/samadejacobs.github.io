@@ -1,2 +1,0 @@
-# samadejacobs.github.io
-Blogging
