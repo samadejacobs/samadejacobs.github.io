@@ -1,4 +1,3 @@
-# samadejacobs.github.io
 # Building Autoencoder in LBANN: A CANDLE Example
 CANcer Distributed Learning Enviroment ([CANDLE](http://candle.cels.anl.gov/)) is a collaborative project between US DOE national laboratories and National Cancer Institute (NCI) aims at enabling high-performance deep learning in support of the DOE-NCI Cancer project. As a partner, researchers at [LLNL](www.llnl.gov) are developing open-source HPC deep learning toolkit called [LBANN](https://github.com/LLNL/lbann) to support **CANDLE** and other projects. 
 
